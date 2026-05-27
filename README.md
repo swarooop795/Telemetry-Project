@@ -50,6 +50,5 @@ python main.py
 
 ---
 
-## Test Result
 
-<img width="527" height="122" alt="Screenshot 2026-05-27 213626" src="https://github.com/user-attachments/assets/7d6d1d6a-f6b8-4fe8-8187-112b403adbea" />
+
